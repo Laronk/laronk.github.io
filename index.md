@@ -1,4 +1,4 @@
-# Hello, **Laronk** is me
+# Some information about me:
 
 - 🔭 **I’m currently working on** a couple of opensource personal programming projects. Hopefully, they will be finished soon enough.
 
@@ -25,6 +25,6 @@
     
 - 😄 **Pronouns:** He, Him, His
 
-- ⚡ **Fun fact:**
+- ⚡ **Interesting fact:**
 
 [![Spurious correlations graphic](./other%20images/chart.svg)](https://tylervigen.com/spurious-correlations)
