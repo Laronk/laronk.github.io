@@ -34,8 +34,9 @@ Find information on:
 
   * The future of Meshi
 
-# 
+&nbsp;&nbsp;
 
+- 🖺 [**View my English language CV**](./Jan%20Karpiuk%20CV%20English.pdf)
 
 - 🌱 **I’m currently learning** machine learning technologies and their maths prerequisites.
   
