@@ -58,8 +58,6 @@ Find information on:
   <a href="https://github.com/Laronk" ><img src="./social%20media%20icons/iconfinder_github_291716.svg" alt="GitHub icon" width="60px"></a>
   <a href="https://gitlab.com/Laronk"><img src="./social%20media%20icons/iconfinder_144_Gitlab_4519079.svg" alt="GitLab icon" width="60px"></a>
 </p>
-    
-- 😄 **Pronouns:** He, Him, His
 
 - ⚡ **Interesting fact:**
 
